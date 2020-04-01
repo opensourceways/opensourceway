@@ -1,5 +1,7 @@
 # opensourceway
 
+English | [简体中文](./README_cn.md)
+
 #### Brief Introduction
 
 This repository house the generic contents for beginner to get knowledge of how to take partatice on opensource community. they may be the following parts:
