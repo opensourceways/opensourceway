@@ -1,36 +1,31 @@
-# website
+# opensourceway
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+#### Brief Introduction
 
-#### Software Architecture
-Software architecture description
+This repository house the generic contents for beginner to get knowledge of how to take partatice on opensource community. they may be the following parts:
+
+  - posts: each post will give a senario of open source action.
+  - tips: show the best practice of one action. 
+
+this repository is at very beginning, you are much appreciated if anything you want to share here.
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+As the basic framework is not ready, this part will mark as `TODO`
 
 #### Contribution
+
+All content will be orgnized by `markdown` style under this repository, and any contribution will be encouraged by PR as following steps:
 
 1.  Fork the repository
 2.  Create Feat_xxx branch
 3.  Commit your code
 4.  Create Pull Request
 
+we encourage to open an issue to have a generic introduction of your contribution before PR, but it is not a required step, feel free to do it as you please.
 
-#### Gitee Feature
+#### Get Help
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+  1. gitee issue: open issue and @freesky-edward in comments
+  2. email: send email to freesky.edward@gmail.com with `[opensourceway]` prefix in email title.
+
