@@ -1,12 +1,4 @@
 # opensourceway
-
-#### Brief Introduction
-
-This repository house the generic contents for beginner to get knowledge of how to take partatice on opensource community. they may be the following parts:
-
-  - posts: each post will give a senario of open source action.
-  - tips: show the best practice of one action. 
-# opensourceway
 [English](./README.md) | 简体中文
 
 #### 简介
