@@ -1,0 +1,11 @@
+[en]
+  title = "OpenSourceWay"
+  languageName = "English"
+  weight = 2
+  contentdir = "content/en"
+
+[zh]
+  title = "OpenSourceWay"
+  languageName = "中文"
+  weight = 1
+  contentdir = "content/zh"
