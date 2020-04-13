@@ -36,9 +36,9 @@ commento = false
 
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
   owner = "freesky-edward"              # Your GitHub ID
-  repo = "https://gitee.com/opensourceway/opensourceway"               # The repo to store comments
-  clientId = "25b31e6e53701226e7a3efddf6be83a49a97ed511a9ab000029c96be3e9ba879"           # Your client ID
-  clientSecret = "a1031e3e5af03f41a6ddc673a7c7d10b0d899ee6f1923aa0b74219c9d68b32b2"       # Your client secret
+  repo = "https://github.com/opensourceways/opensourceway"               # The repo to store comments
+  clientId = "91cc267a25412ab594be"           # Your client ID
+  clientSecret = "78bac2e3638bfc6907f6b6f5a50222223dd443b7"       # Your client secret
 
 [utterances]       # https://utteranc.es/
   owner = ""              # Your GitHub ID
