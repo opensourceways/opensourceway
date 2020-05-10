@@ -38,7 +38,7 @@ README文档也是开源社区中一种约定俗成的信息表达方式。它�
 IRC全称“Internet Relay Chat”，是一种有30多年历史的互联网通信协议，它基于TCP和SSL，主要适用于群体聊天，围绕一个问题展开讨论。IRC是一种分布式的客户端&amp;服务器结构，通过客户端连接到一个IRC服务器，可以访问这个服务器以及它所连接的其他服务器上的频道。IRC频道存在于一个IRC服务器上，一个频道类似于一个聊天室。<br>
 我们可以在本地安装一个IRC客户端，选择社区推荐的IRC服务器和频道，就可以参与到群体聊天中，提问交流，从而解答自己的疑惑。<br>
 openstack正好为我们提供了一个不错的参考文档：<a 
-href="https://docs.openstack.org/contributors/common/irc.html">https://docs.openstack.org/contributors/common/irc.html</a>。
+href="https://docs.openstack.org/contributors/common/irc.html">https://docs.openstack.org/contributors/common/irc.html</a>。<br>
 <img src="howtofindhelp_4.png" style="width:100%;"></li>
 <li>订阅邮件列表<br>
 在静态的求助方式中，我们已经介绍过订阅邮件列表。订阅邮件列表后，除了关注接收邮件，您也可以发送自己的疑问求助社区（提问技巧可以参考部分相关章节），通常都会有其他参与者热心回复。提问后您也需要积极的关注回复，也许答复邮件的社区参与者还需要您提供该问题更详细的描述。这样的邮件讨论可能有多人参与，也可能会往复多轮，如此反复沟通后，相信您的问题也会迎刃而解。</li>
