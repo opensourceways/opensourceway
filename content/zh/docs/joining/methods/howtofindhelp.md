@@ -51,6 +51,7 @@ href="https://docs.openstack.org/contributors/common/irc.html">https://docs.open
 <li>若没有模板，需要讲清楚问题，包括期望的样子，实际的样子，环境信息，版本信息，代码库信息等等；</li>
 <li>建议将问题截图，直观展示。</li>
 </ul>
+<li><img src="howtofindhelp_5.png" style="width:100%;"></li>
 <ol start="4">
 <li>参加社区会议<br>
 通常开源社区都会定期组织一些例会，例会范围不定。有针对整个社区的，如社区summit峰会，社区open day等，主要讨论行业与社区的发展。也有针对各个SIG组的，比如SIG周例会，主要讨论该SIG组遇到的一些问题或者近期以及中长期的发展规划。SIG组的maintainer会和对该SIG组感兴趣的其他参与者通常都会参与会议讨论。会前通常也会通过邮件方式收集相关的议题，您如果有疑问，此时就可以申报议题，在会议上展开讨论。<br>
