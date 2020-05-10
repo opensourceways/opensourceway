@@ -18,11 +18,11 @@
 <li>订阅社区邮件列表<br>
 邮件列表是一种通过用户订阅的方式实现电子邮件的群收群发的服务。它就像一个广播站，订阅邮件后，你可以“收听”别人通过它发出的“广播消息”（包括社区公告、会议通知、问题讨论等信息），也可以通过它来“广播”自己希望发布的信息给社区的其他参与者（订阅了相同邮件列表的人）。将它视为静态求助渠道时，我们通常作为邮件接受者，只需接收，无需回复，从收到的邮件中筛选出自己感兴趣的信息。当然，更推荐的方式还是将邮件列表作为动态的交流渠道，这样有利于快速融入社区。<br>
 大多数的开源社区都提供了邮件列表订阅功能。以Apache为例，提供的邮件列表<a href="https://community.apache.org/lists.html">https://community.apache.org/lists.html</a>，在其中还能找到历史邮件信息。<br>
-所以订阅邮件列表，是您在社区里获得最新通知消息的不错途径。</li>
+所以订阅邮件列表，是您在社区里获得最新通知消息的不错途径。<br>
+<img src="howtofindhelp_2.png" style="width:100%;"></li>
 <li>阅览README文档<br>
 README文档也是开源社区中一种约定俗成的信息表达方式。它是社区中的某一个人或组织放置在各自代码仓库下的一个文本格式文档，用来描述该仓库对应项目的相关信息。几乎每个项目都会在REPO仓库中提供自己的README文档。我们可以通过它学习到该项目的背景知识，组织功能，项目中软件的系统设计，开发调试环境的搭建指导等。我们以kubernates为例，它的代码托管在github上，其项目主干的README文档：<a href="https://github.com/kubernetes/kubernetes/blob/master/README.md">https://github.com/kubernetes/kubernetes/blob/master/README.md</a>，其中我们可以看到 “What is Kubernetes”、“To start using Kubernetes”、“To start developering Kubernetes”等权威且实用的信息。<br>
-作为参与者，通过仔细阅读README文件内容了解项目的运作方式或方案设计等，从而指导推动社区问题解决。
-<img src="howtofindhelp_2.png" style="width:100%;"></li>
+作为参与者，通过仔细阅读README文件内容了解项目的运作方式或方案设计等，从而指导推动社区问题解决。</li>
 </ol>
 <h3 id="互动式求助渠道">互动式求助渠道</h3>
 <p>在讨论动态求助渠道之前，我们先来看看目前社区提供了哪些沟通交流渠道。各大开源社区常见的沟通交流渠道主要有：</p>
